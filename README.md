@@ -13,7 +13,7 @@ This is a sample Magento 2 module allow admin can add Best seller position as Co
 
 ## Configure and Manage
 
-* No configuration
+* In Cart Price Rule, Add Best Seller in condition / action in Products Attribute -> Best Seller Top
 
 
 ## Installation without Composer
